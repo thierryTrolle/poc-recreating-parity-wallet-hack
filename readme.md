@@ -1,6 +1,6 @@
 # POC RECREATING PARITY WALLET HACK
 
-POC for test harhat mainnet forking feature with pin block number.
+POC useful to test harhat mainnet forking feature with pin block number.
 
 ## Install 
 
